@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **myself 😉**
 
-- 📫 How to reach me **reetanka.j@gmail.com**
+- 📫 How to reach me **https://forms.gle/8mnctdAh2k1GDssu7**
 
 - ⚡ Fun fact **I think I am funny now it's your turn to find out:)**
 
