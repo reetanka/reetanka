@@ -21,10 +21,10 @@
 
 - ⚡ Fun fact **I think I am funny now it's your turn to find out:)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 😉:</h3>
 <p align="left">
 <a href="https://twitter.com/iamrjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jana_reetanka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reetanka-jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reetanka-jana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamrjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reetanka-jana" height="30" width="40" /></a>
 <a href="https://fb.com/reetanka.babai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reetanka.babai" height="30" width="40" /></a>
 <a href="https://instagram.com/your_babai_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_babai_27" height="30" width="40" /></a>
 <a href="https://medium.com/@reetanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reetanka" height="30" width="40" /></a>
