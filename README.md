@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reetanka Jana</h1>
-<h3 align="center">A med student who has interest in Computer Science. I am currently pursuing my MBBS under WBUHS :)</h3>
+<h3 align="center">A med student who has interest in Computer Science. I am currently pursuing my MBBS from GIMSH :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reetanka&label=Profile%20views&color=0e75b6&style=flat" alt="reetanka" /> </p>
 
